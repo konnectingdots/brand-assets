@@ -1,13 +1,13 @@
-# Pixelfed Artwork and Branding Assets
+# KonnectingDots Artwork and Branding Assets
 
 ## Usage Guidelines
 
-Pixelfed as a brand is represented by two primary symbols, logo and mascot. This
+KonnectingDots as a brand is represented by two primary symbols, logo and mascot. This
 is a detailed description and a guide for usage of both of them.
 
 ### Logo
 
-		When using Pixelfed logos you need to keep in mind that it's to
+		When using KonnectingDots logos you need to keep in mind that it's to
 		represent software and creators of the software. Usage of the
 		logos in ways which are incompatible with that idea is not
 		recommended.
