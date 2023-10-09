@@ -42,25 +42,16 @@ and the circle is not segmented.
 
 ### Colours
 
-**Green**
+**Portland Orange**
 
-![Green](/palette/green.png)
+![Portland Orange](/palette/Portland Orange.png)
 
-**Blue**
+**Black Howl**
 
-![Blue](/palette/blue.png)
+![Black Howl](/palette/Black Howl.png)
 
-**Purple**
 
-![Purple](/palette/purple.png)
 
-**Red**
-
-![Red](/palette/red.png)
-
-**Yellow**
-
-![Yellow](/palette/yellow.png)
 
 ### Font
 
