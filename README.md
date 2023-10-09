@@ -44,11 +44,11 @@ and the circle is not segmented.
 
 **Portland Orange**
 
-![Porland Orange](palette\portland-orange.png)
+![Porland Orange](palette/portland-orange.png)
 
 **Black Howl**
 
-![Black Howl](palette\black-howl.png)
+![Black Howl](palette/black-howl.png)
 
 
 
