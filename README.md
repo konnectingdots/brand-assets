@@ -13,7 +13,7 @@ is a detailed description and a guide for usage of both of them.
 		recommended.
 
 
-
+![Offsets](/usage/konnectingdots-logo.svg)
 
 #### Description
 
