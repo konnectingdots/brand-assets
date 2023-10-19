@@ -36,6 +36,9 @@ and the circle is not segmented.
 
 ![Offsets](/usage/offsets.svg)
 
+
+
+
 1/4 of the total size offsets around the logo
 
 ### Colours
