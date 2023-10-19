@@ -12,9 +12,7 @@ is a detailed description and a guide for usage of both of them.
 		logos in ways which are incompatible with that idea is not
 		recommended.
 
-![Icon](/logo/icon.svg)
-![Icon with text](/logo/icon_with_text.svg)
-![Symbolic](/logo/symbolic.svg)
+
 
 
 #### Description
