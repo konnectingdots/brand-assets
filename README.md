@@ -36,7 +36,7 @@ and the circle is not segmented.
 
 #### Usage
 
-![Offsets](/usage/offset.svg)
+![Offsets](/usage/offsets.svg)
 
 1/4 of the total size offsets around the logo
 
