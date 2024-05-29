@@ -56,9 +56,9 @@ and the circle is not segmented.
 
 ### Font
 
-![inter](/usage/inter.svg)
+![Roboto](/usage/inter.svg)
 
-InterUI is used as a font next to logos.
+Roboto is used as a font next to logos.
 
 ### Mascot
 
