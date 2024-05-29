@@ -56,7 +56,7 @@ and the circle is not segmented.
 
 ### Font
 
-![Roboto](/usage/inter.svg)
+![Roboto](/usage/Roboto.svg)
 
 Roboto is used as a font next to logos.
 
