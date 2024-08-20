@@ -1,0 +1,12 @@
+Adobe After Effects v23.2.1 Windows 64 render log for project “Social_Possibilities_1_plugin 222.aep”
+
+Rendering started on 8/16/2024 at 3:49:56 AM
+
+  8/16/2024 3:49:56 AM: Starting composition “Social_Possibilities_(main)”.
+
+  Output To: C:\Users\Jubayer Islam\Documents\GitHub\brand-assets\web banner vedio\Social_Possibilities_(main).mp4      Render stopped by user.    8/16/2024 3:50:07 AM: Finished composition “Social_Possibilities_(main)”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 8/16/2024 at 3:50:07 AM
+

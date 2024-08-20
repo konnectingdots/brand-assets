@@ -1,0 +1,12 @@
+Adobe After Effects v23.2.1 Windows 64 render log for project “Social_Possibilities_1_plugin 222.aep”
+
+Rendering started on 8/16/2024 at 3:43:46 AM
+
+  8/16/2024 3:43:46 AM: Starting composition “Social_Possibilities_(DV_NTSC)”.
+
+  Output To: C:\Users\Jubayer Islam\Documents\GitHub\brand-assets\web banner vedio\v.mov      Render stopped by user.    8/16/2024 3:44:34 AM: Finished composition “Social_Possibilities_(DV_NTSC)”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 8/16/2024 at 3:44:34 AM
+
